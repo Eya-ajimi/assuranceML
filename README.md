@@ -2,4 +2,4 @@
 pip install -r requirements.txt
 
 # Lancer l'application
-!python app2.py
+python app2.py
